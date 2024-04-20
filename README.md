@@ -83,7 +83,7 @@ If you find this work helpful, please consider citing the following paper:
 This code is built on [HSENet (Pytorch)](https://github.com/Shaosifan/HSENet), [CTNet (Pytorch)](https://github.com/BITszwang/CTNet) and [HAUNet (Pytorch)](https://github.com/likakakaka/HAUNet_RSISR).  We thank the authors for sharing the codes.
 
 ## Citation  
-[1] H. Wang, S. Cheng*, Y. Li and A. Du, "Lightweight Remote-Sensing Image Super-Resolution via Attention-Based Multilevel Feature Fusion Network," in IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-15, 2023
+[1] H. Wang, S. Cheng*, Y. Li and A. Du, "Lightweight Remote-Sensing Image Super-Resolution via Attention-Based Multilevel Feature Fusion Network," in IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-15, 2023 (https://github.com/cslxju/SuperResolution_AMFFN_TGRS2023)
 
 
 
